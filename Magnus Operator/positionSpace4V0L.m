@@ -1,0 +1,12 @@
+{{Graph[{x1, x3, x2, x4}, {DirectedEdge[x1, x3], DirectedEdge[x2, x4], 
+    DirectedEdge[x3, x4]}], 1/48}, 
+ {Graph[{x2, x4, x3, x1}, {DirectedEdge[x2, x4], DirectedEdge[x3, x4], 
+    DirectedEdge[x3, x1]}], 1/48}, 
+ {Graph[{x3, x4, x1, x2}, {DirectedEdge[x3, x4], DirectedEdge[x3, x1], 
+    DirectedEdge[x4, x2]}], 1/48}, 
+ {Graph[{x3, x4, x1, x2}, {DirectedEdge[x3, x4], DirectedEdge[x4, x1], 
+    DirectedEdge[x4, x2]}], 1/96}, 
+ {Graph[{x1, x4, x2, x3}, {DirectedEdge[x1, x4], DirectedEdge[x2, x4], 
+    DirectedEdge[x4, x3]}], 1/96}, 
+ {Graph[{x2, x4, x3, x1}, {DirectedEdge[x2, x4], DirectedEdge[x3, x1], 
+    DirectedEdge[x4, x3]}], 1/16}}
