@@ -2,6 +2,8 @@ This is the companion repository to:
 "The Magnus expansion in relativistic quantum field theory" 
 Authors: Andreas Brandhuber, Graham R. Brown, Paolo Pichini,
 Gabriele Travaglini  and Pablo Vives Matasan. 
+DOI: https://doi.org/10.1007/JHEP07(2026)151
+arXiv: 2512.05017
 
 -The file "Magnus Operator" contains the N-operator itself.
 -The file "Magnus Amplitudes" contains matrix elements of the N-
